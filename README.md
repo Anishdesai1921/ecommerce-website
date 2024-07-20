@@ -25,6 +25,8 @@ Database: MongoDB (Atlas)
   name : String
   
   description : String
+
+  categories : String
   
   price : Number
   
